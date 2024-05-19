@@ -1,0 +1,2 @@
+# Brain Tumor Classification Project
+Project for machine learning course, classifying brain tumors using EfficientNetB3 with added Dropout, BatchNorm and regularization. Dataset source is [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
